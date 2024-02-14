@@ -1,0 +1,130 @@
+{
+    "gameConfig": [
+        {
+            "config_name": "玩家移动速度",
+            "config_enname": "play_speed",
+            "config_type": "1",
+            "config_item": "6"
+        },
+        {
+            "config_name": "玩家碰撞范围",
+            "config_enname": "player_collison",
+            "config_type": "1",
+            "config_item": "0.5"
+        },
+        {
+            "config_name": "玩家复活等待时间",
+            "config_enname": "player_revive_time",
+            "config_type": "1",
+            "config_item": "3"
+        },
+        {
+            "config_name": "玩家复活无敌时间",
+            "config_enname": "player_invincible_time",
+            "config_type": "1",
+            "config_item": "3"
+        },
+        {
+            "config_name": "披萨弹力",
+            "config_enname": "pizza_k",
+            "config_type": "1",
+            "config_item": "50"
+        },
+        {
+            "config_name": "披萨力系数",
+            "config_enname": "pizza_force",
+            "config_type": "1",
+            "config_item": "1"
+        },
+        {
+            "config_name": "披萨生成间隔",
+            "config_enname": "pizza_distance",
+            "config_type": "1",
+            "config_item": "2"
+        },
+        {
+            "config_name": "玩家减速速度",
+            "config_enname": "play_slowdown",
+            "config_type": "1",
+            "config_item": "4"
+        },
+        {
+            "config_name": "玩家减速时间",
+            "config_enname": "paly_slowdownTime",
+            "config_type": "1",
+            "config_item": "1"
+        },
+        {
+            "config_name": "通关获得金币",
+            "config_enname": "getCoin",
+            "config_type": "1",
+            "config_item": "20"
+        },
+        {
+            "config_name": "主界面相机位置",
+            "config_enname": "home_camera_pos",
+            "config_type": "1",
+            "config_item": "0.921,4.5,-0.794"
+        },
+        {
+            "config_name": "主界面相机旋转",
+            "config_enname": "game_camera_angle",
+            "config_type": "1",
+            "config_item": "21.302,7.704,0"
+        },
+        {
+            "config_name": "游戏界面相机位置",
+            "config_enname": "game_camera_pos",
+            "config_type": "1",
+            "config_item": "1.45,5.99,-2"
+        },
+        {
+            "config_name": "游戏界面相机旋转",
+            "config_enname": "game_camera_angle",
+            "config_type": "1",
+            "config_item": "21.302,7.704,0"
+        },
+        {
+            "config_name": "结束相机位置",
+            "config_enname": "end_camera_pos",
+            "config_type": "1",
+            "config_item": "0,4.15,-2.36"
+        },
+        {
+            "config_name": "结束相机旋转",
+            "config_enname": "end_camera_angle",
+            "config_type": "1",
+            "config_item": "32.704,0,0"
+        },
+        {
+            "config_name": "滑动灵敏度",
+            "config_enname": "slipSensitivity",
+            "config_type": "1",
+            "config_item": "5"
+        },
+        {
+            "config_name": "结束镜头时间",
+            "config_enname": "end_camera_time",
+            "config_type": "1",
+            "config_item": "120"
+        },
+        {
+            "config_name": "砸金蛋披萨数量",
+            "config_enname": "egg_pizza_num",
+            "config_type": "1",
+            "config_item": "10"
+        },
+        {
+            "config_name": "砸金蛋一个披萨可点次数",
+            "config_enname": "egg_pizza_clickNnum",
+            "config_type": "1",
+            "config_item": "2"
+        },
+        {
+            "config_name": "砸金蛋披萨生成时间",
+            "config_enname": "egg_pizza_time",
+            "config_type": "1",
+            "config_item": "1.5"
+        }
+    ]
+}

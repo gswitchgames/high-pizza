@@ -1,0 +1,12 @@
+
+!function () {
+    function _setPrototypeOf(o, p) {
+        module._setPrototypeOf = _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) {
+            o.__proto__ = p;
+            return o;
+        };
+        return _setPrototypeOf(o, p);
+    }
+
+    module._setPrototypeOf = _setPrototypeOf;
+}()
